@@ -19,9 +19,9 @@
 #### Demais usuários:
 
 ##### Hugo:
--Email: hugo@gmail.com
--Senha: asdfasdf
+- Email: hugo@gmail.com
+- Senha: asdfasdf
 
 ##### User:
--Email: user@user.com
--Senha: asdfasdf
+- Email: user@user.com
+- Senha: asdfasdf

@@ -13,6 +13,15 @@
 
 #### Dados do usuário admin
 
-- Email: admin@admin.com;
-- Senha: admin;
+- Email: admin@admin.com
+- Senha: admin
  
+#### Demais usuários:
+
+##### Hugo:
+-Email: hugo@gmail.com
+-Senha: asdfasdf
+
+##### User:
+-Email: user@user.com
+-Senha: asdfasdf
